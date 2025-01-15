@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/jingzeng/Documents/VSCode/Software/MazeGame",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/include -I/Users/jingzeng/Documents/VSCode/Software/MazeGame/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/MazeGame.dir/src/main.cpp.o -c /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/main.cpp",
+  "file": "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/main.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/jingzeng/Documents/VSCode/Software/MazeGame",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/include -I/Users/jingzeng/Documents/VSCode/Software/MazeGame/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/MazeGame.dir/src/Game.cpp.o -c /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Game.cpp",
+  "file": "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Game.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Game.cpp.o"
+},
+{
+  "directory": "/Users/jingzeng/Documents/VSCode/Software/MazeGame",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/include -I/Users/jingzeng/Documents/VSCode/Software/MazeGame/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/MazeGame.dir/src/Maze.cpp.o -c /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Maze.cpp",
+  "file": "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Maze.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Maze.cpp.o"
+},
+{
+  "directory": "/Users/jingzeng/Documents/VSCode/Software/MazeGame",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/include -I/Users/jingzeng/Documents/VSCode/Software/MazeGame/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/MazeGame.dir/src/Player.cpp.o -c /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Player.cpp",
+  "file": "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Player.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Player.cpp.o"
+},
+{
+  "directory": "/Users/jingzeng/Documents/VSCode/Software/MazeGame",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/include -I/Users/jingzeng/Documents/VSCode/Software/MazeGame/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/MazeGame.dir/src/Utils.cpp.o -c /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Utils.cpp",
+  "file": "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Utils.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Utils.cpp.o"
+},
+{
+  "directory": "/Users/jingzeng/Documents/VSCode/Software/MazeGame",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/include -I/Users/jingzeng/Documents/VSCode/Software/MazeGame/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/MazeGame.dir/src/Effects.cpp.o -c /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Effects.cpp",
+  "file": "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Effects.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/Effects.cpp.o"
+},
+{
+  "directory": "/Users/jingzeng/Documents/VSCode/Software/MazeGame",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/include -I/Users/jingzeng/Documents/VSCode/Software/MazeGame/include -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o -c /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/TextRenderer.cpp",
+  "file": "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/TextRenderer.cpp",
+  "output": "CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o"
+}
+]

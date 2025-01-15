@@ -1,0 +1,2 @@
+mkdir -p save
+touch save/progress.dat 

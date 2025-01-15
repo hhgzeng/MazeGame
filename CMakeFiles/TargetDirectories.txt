@@ -1,0 +1,3 @@
+/Users/jingzeng/Documents/VSCode/Software/MazeGame/CMakeFiles/MazeGame.dir
+/Users/jingzeng/Documents/VSCode/Software/MazeGame/CMakeFiles/edit_cache.dir
+/Users/jingzeng/Documents/VSCode/Software/MazeGame/CMakeFiles/rebuild_cache.dir

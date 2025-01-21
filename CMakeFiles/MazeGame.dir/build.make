@@ -142,43 +142,13 @@ CMakeFiles/MazeGame.dir/src/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/Utils.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Utils.cpp -o CMakeFiles/MazeGame.dir/src/Utils.cpp.s
 
-CMakeFiles/MazeGame.dir/src/Effects.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/Effects.cpp.o: src/Effects.cpp
-CMakeFiles/MazeGame.dir/src/Effects.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jingzeng/Documents/VSCode/Software/MazeGame/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MazeGame.dir/src/Effects.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/Effects.cpp.o -MF CMakeFiles/MazeGame.dir/src/Effects.cpp.o.d -o CMakeFiles/MazeGame.dir/src/Effects.cpp.o -c /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Effects.cpp
-
-CMakeFiles/MazeGame.dir/src/Effects.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/Effects.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Effects.cpp > CMakeFiles/MazeGame.dir/src/Effects.cpp.i
-
-CMakeFiles/MazeGame.dir/src/Effects.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/Effects.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Effects.cpp -o CMakeFiles/MazeGame.dir/src/Effects.cpp.s
-
-CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o: CMakeFiles/MazeGame.dir/flags.make
-CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o: src/TextRenderer.cpp
-CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o: CMakeFiles/MazeGame.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jingzeng/Documents/VSCode/Software/MazeGame/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o -MF CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o.d -o CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o -c /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/TextRenderer.cpp
-
-CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/TextRenderer.cpp > CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.i
-
-CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jingzeng/Documents/VSCode/Software/MazeGame/src/TextRenderer.cpp -o CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.s
-
 # Object files for target MazeGame
 MazeGame_OBJECTS = \
 "CMakeFiles/MazeGame.dir/src/main.cpp.o" \
 "CMakeFiles/MazeGame.dir/src/Game.cpp.o" \
 "CMakeFiles/MazeGame.dir/src/Maze.cpp.o" \
 "CMakeFiles/MazeGame.dir/src/Player.cpp.o" \
-"CMakeFiles/MazeGame.dir/src/Utils.cpp.o" \
-"CMakeFiles/MazeGame.dir/src/Effects.cpp.o" \
-"CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o"
+"CMakeFiles/MazeGame.dir/src/Utils.cpp.o"
 
 # External object files for target MazeGame
 MazeGame_EXTERNAL_OBJECTS =
@@ -188,11 +158,9 @@ MazeGame: CMakeFiles/MazeGame.dir/src/Game.cpp.o
 MazeGame: CMakeFiles/MazeGame.dir/src/Maze.cpp.o
 MazeGame: CMakeFiles/MazeGame.dir/src/Player.cpp.o
 MazeGame: CMakeFiles/MazeGame.dir/src/Utils.cpp.o
-MazeGame: CMakeFiles/MazeGame.dir/src/Effects.cpp.o
-MazeGame: CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o
 MazeGame: CMakeFiles/MazeGame.dir/build.make
 MazeGame: CMakeFiles/MazeGame.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jingzeng/Documents/VSCode/Software/MazeGame/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable MazeGame"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jingzeng/Documents/VSCode/Software/MazeGame/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable MazeGame"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MazeGame.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

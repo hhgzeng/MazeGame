@@ -8,11 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Effects.cpp" "CMakeFiles/MazeGame.dir/src/Effects.cpp.o" "gcc" "CMakeFiles/MazeGame.dir/src/Effects.cpp.o.d"
   "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Game.cpp" "CMakeFiles/MazeGame.dir/src/Game.cpp.o" "gcc" "CMakeFiles/MazeGame.dir/src/Game.cpp.o.d"
   "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Maze.cpp" "CMakeFiles/MazeGame.dir/src/Maze.cpp.o" "gcc" "CMakeFiles/MazeGame.dir/src/Maze.cpp.o.d"
   "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Player.cpp" "CMakeFiles/MazeGame.dir/src/Player.cpp.o" "gcc" "CMakeFiles/MazeGame.dir/src/Player.cpp.o.d"
-  "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/TextRenderer.cpp" "CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o" "gcc" "CMakeFiles/MazeGame.dir/src/TextRenderer.cpp.o.d"
   "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/Utils.cpp" "CMakeFiles/MazeGame.dir/src/Utils.cpp.o" "gcc" "CMakeFiles/MazeGame.dir/src/Utils.cpp.o.d"
   "/Users/jingzeng/Documents/VSCode/Software/MazeGame/src/main.cpp" "CMakeFiles/MazeGame.dir/src/main.cpp.o" "gcc" "CMakeFiles/MazeGame.dir/src/main.cpp.o.d"
   )

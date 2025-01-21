@@ -1,0 +1,62 @@
+# Build directories
+build/
+CMakeFiles/
+[Dd]ebug/
+[Rr]elease/
+
+# CMake generated files
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+*.cmake
+
+# Executables
+MazeGame
+*.exe
+*.out
+
+# IDE specific files
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Dependency directories
+/vcpkg/
+/deps/
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Game specific
+save/*
+!save/.gitkeep
+
+# clangd cache
+.cache/
+.clangd
